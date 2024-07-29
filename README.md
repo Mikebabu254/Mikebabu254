@@ -1,5 +1,4 @@
 # About Me:
-- 👨‍💻 I’m currently working on: [InvodTech](https://invodtech.com)
 - 🌱 I’m currently learning Flutter 
 - 💬 Ask me about Mobile development
 - 📫 How to reach me: michaelndolo17142@gmail.com
