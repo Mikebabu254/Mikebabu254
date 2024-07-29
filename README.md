@@ -1,7 +1,6 @@
 # About Me:
 - I am Eshiwani Michael
 - 🌱 I’m currently learning Flutter 
-- 💬 Ask me about Mobile development
 - 📫 How to reach me: michaelndolo17142@gmail.com
 - 📝 Know about my experiences: [INKOGNITO](https://inkognito.invodtech.com)
 
