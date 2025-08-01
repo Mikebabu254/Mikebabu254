@@ -28,7 +28,7 @@ I enjoy building both web and mobile applications with a focus on clean, efficie
 
 ### 📱 Android Development:
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 
 ### 💻 Backend & Server-Side:
@@ -41,9 +41,9 @@ I enjoy building both web and mobile applications with a focus on clean, efficie
 
 ## 📚 Currently Exploring
 - Clean Architecture for Flutter
-- RESTful APIs & GraphQL
+- RESTful APIs
 - Progressive Web Apps (PWA)
-- Cloud Services (Firebase, AWS basics)
+- Cloud Services (Firebase)
 
 ---
 
