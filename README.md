@@ -1,6 +1,6 @@
 # About Me:
 - I am Eshiwani Michael
-- 🌱 I’m currently learning Flutter 
+- 🌱 I’m currently an Intern at [NEMA](https://licensing.nema.go.ke/)
 - 📫 How to reach me: michaelndolo17142@gmail.com
 - 📝 Know about my experiences: [INKOGNITO](https://mike-portfolio-five.vercel.app/)
 
