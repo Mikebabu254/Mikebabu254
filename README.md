@@ -2,7 +2,7 @@
 - I am Eshiwani Michael
 - 🌱 I’m currently learning Flutter 
 - 📫 How to reach me: michaelndolo17142@gmail.com
-- 📝 Know about my experiences: [INKOGNITO](https://inkognito.invodtech.com)
+- 📝 Know about my experiences: [INKOGNITO](https://mike-portfolio-five.vercel.app/)
 
 ## Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yourusername)
