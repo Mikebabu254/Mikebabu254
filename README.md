@@ -53,7 +53,7 @@ I enjoy building both web and mobile applications with a focus on clean, efficie
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mikebabu254&layout=compact&theme=github_dark&hide_border=true)
 ![Repos per Language](https//github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mikebabu254&theme=github_dark)
 ![Commits per Year](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mikebabu254&theme=github_dark)
-
+![Commits per Year](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mikebabu254&theme=github_dark)
 ---
 
 ## ✨ Personal Philosophy
