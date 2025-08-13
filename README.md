@@ -66,9 +66,6 @@ I enjoy building both web and mobile applications with a focus on clean, efficie
 ---
 ### Random Dev Quote
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
----
-### My Quote
-**_"Let it flow like the water in the river"_**
 
 ---
 ## 💬 My Quote
