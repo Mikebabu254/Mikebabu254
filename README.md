@@ -1,5 +1,5 @@
 # 👨‍💻 About Me
-Hi there! I'm **Eshiwani Michael**, a passionate software developer currently interning at [NEMA](https://licensing.nema.go.ke/).  
+Hi there! I'm **Eshiwani Michael**, a passionate software developer currently interning at [NEMA](https://nema.go.ke/).  
 I enjoy building both web and mobile applications with a focus on clean, efficient code and responsive design.
 
 - 🌱 Currently learning and growing through real-world projects at **NEMA**.
@@ -51,6 +51,9 @@ I enjoy building both web and mobile applications with a focus on clean, efficie
 ![Streak](https://streak-stats.demolab.com?user=Mikebabu254&theme=github-border=true)
 ![stats](https://github-readme-stats.vercel.app/api?username=Mikebabu254&count_private=true&show_icons=true&theme=github_dark&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mikebabu254&layout=compact&theme=github_dark&hide_border=true)
+![Repos per Language](https//github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mikebabu254&theme=github_dark)
+![Commits per Year](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mikebabu254&theme=github_dark)
+
 ---
 
 ## ✨ Personal Philosophy
