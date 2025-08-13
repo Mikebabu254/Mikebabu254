@@ -61,7 +61,7 @@ I enjoy building both web and mobile applications with a focus on clean, efficie
 
 ---
 ## Random Dev Quote
-![Quote](https://quotes-github-readme/vercel.app/api?type=horizontal&theme=dark)
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 ---
 
 ## ✨ Personal Philosophy
