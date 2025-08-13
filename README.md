@@ -46,7 +46,9 @@ I enjoy building both web and mobile applications with a focus on clean, efficie
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ---
+## Github Status
 ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mikebabu254&theme=github_dark)
+![Streak](https://streak-stats.demolab.com?user=Mikebabu254&theme=github-border=true)
 ---
 
 ## ✨ Personal Philosophy
