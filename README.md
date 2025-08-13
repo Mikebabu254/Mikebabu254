@@ -9,6 +9,14 @@ I enjoy building both web and mobile applications with a focus on clean, efficie
 
 ---
 
+## 📚 Currently Exploring
+- Clean Architecture for Flutter
+- RESTful APIs
+- Progressive Web Apps (PWA)
+- Cloud Services (Firebase)
+
+---
+
 ## 🌐 Connect With Me
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yourusername)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourusername)  
@@ -38,13 +46,7 @@ I enjoy building both web and mobile applications with a focus on clean, efficie
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ---
-
-## 📚 Currently Exploring
-- Clean Architecture for Flutter
-- RESTful APIs
-- Progressive Web Apps (PWA)
-- Cloud Services (Firebase)
-
+![Profile Details]
 ---
 
 ## ✨ Personal Philosophy
