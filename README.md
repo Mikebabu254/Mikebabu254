@@ -68,7 +68,7 @@ I enjoy building both web and mobile applications with a focus on clean, efficie
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 ---
 ### My Quote
-**-"Let it flow like the water in the river"-**
+**_"Let it flow like the water in the river"_**
 ---
 
 ## ✨ Personal Philosophy
