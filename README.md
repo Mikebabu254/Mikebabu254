@@ -69,6 +69,7 @@ I enjoy building both web and mobile applications with a focus on clean, efficie
 ---
 ### My Quote
 **_"Let it flow like the water in the river"_**
+![Typing SVG](https://readme-typig-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines="Let it flow like the water in the river")
 ---
 
 ## ✨ Personal Philosophy
