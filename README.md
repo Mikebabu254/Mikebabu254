@@ -55,7 +55,7 @@ I enjoy building both web and mobile applications with a focus on clean, efficie
 ![Commits per Year](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mikebabu254&theme=github_dark)
 
 #Contributor Stats
-![Contributions](https://github-profile-contributor-stats.vercel.app/api?username=Mikebabu254&limit=5&theme=github_dark&combine_all_yearly_contributions=true)
+![Contributions](https://github-profile-contributor-stats.vercel.app/api?username=Mikebabu254&limit=5&theme=dark&combine_all_yearly_contributions=true)
 ---
 
 ## ✨ Personal Philosophy
