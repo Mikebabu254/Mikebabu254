@@ -49,7 +49,7 @@ I enjoy building both web and mobile applications with a focus on clean, efficie
 ## Github Status
 ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mikebabu254&theme=github_dark)
 ![Streak](https://streak-stats.demolab.com?user=Mikebabu254&theme=github-border=true)
-![stats](https://github-readme-status.vercel.app/api?username=Mikebabu254&count_private=true&show_icon=true&theme=github_dark&hidden_border=true)
+![stats](https://github-readme-stats.vercel.app/api?username=Mikebabu254&count_private=true&show_icons=true&theme=github_dark&hide_border=true)
 ---
 
 ## ✨ Personal Philosophy
