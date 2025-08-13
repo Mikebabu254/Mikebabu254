@@ -55,17 +55,19 @@ I enjoy building both web and mobile applications with a focus on clean, efficie
 
 ### Stats
 ![stats](https://github-readme-stats.vercel.app/api?username=Mikebabu254&count_private=true&show_icons=true&theme=github_dark&hide_border=true)
+
+### Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mikebabu254&layout=compact&theme=github_dark&hide_border=true)
 ![Repos Per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mikebabu254&theme=github_dark)
+
+### Commits
 ![Commits per Year](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mikebabu254&theme=github_dark)
 
----
-
-## Contributor Stats
+### Contributor Stats
 ![Contributions](https://github-contributor-stats.vercel.app/api?username=Mikebabu254&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-## Random Dev Quote
+### Random Dev Quote
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 ---
 
