@@ -2,7 +2,7 @@
 Hi there! I'm **Eshiwani Michael**, a passionate software developer currently interning at [**NEMA**](https://nema.go.ke/).  
 I enjoy building both web and mobile applications with a focus on clean, efficient code and responsive design.
 
-- 🌱 Currently learning and growing through real-world projects at **NEMA**.
+- 🌱 Currently learning and growing through real-world projects at [**NEMA**](https://nema.go.ke/).
 - 💼 Interested in **Web**, **Mobile App**, and **Backend Development**.
 - 📫 Reach me via email: **michaelndolo17142@gmail.com**
 - 🧠 Check out my work and experience: [**INKOGNITO PORTFOLIO**](https://mike-portfolio-five.vercel.app/)
