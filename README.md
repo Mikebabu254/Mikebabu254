@@ -1,5 +1,5 @@
 # 👨‍💻 About Me
-Hi there! I'm **Eshiwani Michael**, a passionate software developer currently interning at [NEMA](https://nema.go.ke/).  
+Hi there! I'm **Eshiwani Michael**, a passionate software developer currently interning at [**NEMA**](https://nema.go.ke/).  
 I enjoy building both web and mobile applications with a focus on clean, efficient code and responsive design.
 
 - 🌱 Currently learning and growing through real-world projects at **NEMA**.
