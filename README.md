@@ -5,7 +5,7 @@ I enjoy building both web and mobile applications with a focus on clean, efficie
 - 🌱 Currently learning and growing through real-world projects at **NEMA**.
 - 💼 Interested in **Web**, **Mobile App**, and **Backend Development**.
 - 📫 Reach me via email: **michaelndolo17142@gmail.com**
-- 🧠 Check out my work and experience: [INKOGNITO Portfolio](https://mike-portfolio-five.vercel.app/)
+- 🧠 Check out my work and experience: [INKOGNITO PORTFOLIO](https://mike-portfolio-five.vercel.app/)
 
 ---
 
