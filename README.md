@@ -10,10 +10,8 @@ I enjoy building both web and mobile applications with a focus on clean, efficie
 ---
 
 ## 📚 Currently Exploring
-- Clean Architecture for Flutter
 - RESTful APIs
 - Progressive Web Apps (PWA)
-- Cloud Services (Firebase)
 
 ---
 
