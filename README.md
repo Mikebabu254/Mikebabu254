@@ -63,7 +63,7 @@ I enjoy building both web and mobile applications with a focus on clean, efficie
 ![Contributions](https://github-contributor-stats.vercel.app/api?username=Mikebabu254&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-### Random Dev Quote
+### Random Quote
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
