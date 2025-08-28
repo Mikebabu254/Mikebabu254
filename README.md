@@ -51,7 +51,7 @@ I enjoy building both web and mobile applications with a focus on clean, efficie
 
 ### Streaks, Commits & Stats
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Mikebabu254)
-![Commits per Year](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mikebabu254theme=github_dark)
+![Commits per Year](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mikebabu254&theme=github_dark)
 ![stats](https://github-readme-stats.vercel.app/api?username=Mikebabu254&count_private=true&show_icons=true&theme=github_dark&hide_border=true)
 
 ### Languages
