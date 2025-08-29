@@ -50,6 +50,10 @@ I enjoy building both web and mobile applications with a focus on clean, efficie
 ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mikebabu254&theme=github_dark)
 
 ### Streaks, Commits & Stats
+### Streaks, Commits & Stats
+![Commits per Year](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mikebabu254&theme=github_dark)
+![Stats](https://github-readme-stats.vercel.app/api?username=Mikebabu254&count_private=true&show_icons=true&theme=github_dark&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mikebabu254&theme=github-dark&hide_border=true)
 
 ![Commits per Year](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mikebabu254&theme=github_dark)
 ![stats](https://github-readme-stats.vercel.app/api?username=Mikebabu254&count_private=true&show_icons=true&theme=github_dark&hide_border=true)
