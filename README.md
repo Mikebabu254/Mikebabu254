@@ -32,6 +32,7 @@ I enjoy building both web and mobile applications with a focus on clean, efficie
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![XML](https://img.shields.io/badge/XML-FF6600?style=for-the-badge&logoColor=white)
 
 ### 📱 Android Development:
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
