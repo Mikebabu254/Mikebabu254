@@ -74,7 +74,7 @@ I enjoy building both web and mobile applications with a focus on clean, efficie
 ---
 ## 💬 My Quote
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Let+it+flow+like+the+water+in+the+river)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Life+is+what+happens+to+us+while+we+are+making+other+plans)
 
 ## ✨ Personal Philosophy
 > "Build software that solves real problems and simplifies life."
