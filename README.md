@@ -1,9 +1,11 @@
 # 👨‍💻 About Me
-Hi there! I'm **Eshiwani Michael**, a passionate software developer currently interning at [**NEMA**](https://nema.go.ke/).  
+Hi there! I'm **Eshiwani Michael**, a passionate software developer and a cybersecurity enthusiast dedicated to making the digital world a safer place.
+From penetration testing and threat hunting to ethical hacking and secure coding practices.
+I enjoy diving deep into the world of cyber defense and offense.
 I enjoy building both web and mobile applications with a focus on clean, efficient code and responsive design.
 
 - 🌱 Currently learning and growing through real-world projects at [**NEMA**](https://nema.go.ke/).
-- 💼 Interested in **Web**, **Mobile App**, and **Backend Development**.
+- 💼 Interested in **Web**, **Mobile App**,**Web pentest**, **Networking infrastructure**,**Cryptography** and **Backend Development**.
 - 📫 Reach me via email: **michaelndolo17142@gmail.com**
 - 🧠 Check out my work and experience: [**INKOGNITO PORTFOLIO**](https://mike-portfolio-five.vercel.app/)
 
