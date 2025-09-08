@@ -5,7 +5,7 @@ I enjoy diving deep into the world of cyber defense and offense.
 I enjoy building both web and mobile applications with a focus on clean, efficient code and responsive design.
 
 - 🌱 Currently learning and growing through real-world projects at [**NEMA**](https://nema.go.ke/).
-- 💼 Interested in **Web**, **Mobile App**,**Web pentest**, **Networking infrastructure**,**Cryptography** and **Backend Development**.
+- 💼 Interested in **Web**, **Mobile App**, **Web pentest**, **Networking infrastructure**, **Cryptography** and **Backend Development**.
 - 📫 Reach me via email: **michaelndolo17142@gmail.com**
 - 🧠 Check out my work and experience: [**INKOGNITO PORTFOLIO**](https://mike-portfolio-five.vercel.app/)
 
@@ -46,6 +46,8 @@ I enjoy building both web and mobile applications with a focus on clean, efficie
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+---
 
 ## 🛡️ Cybersecurity Toolkit
 
