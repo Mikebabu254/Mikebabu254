@@ -45,6 +45,18 @@ I enjoy building both web and mobile applications with a focus on clean, efficie
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
+## 🛡️ Cybersecurity Toolkit
+### 🔍 Reconnaissance & Scanning
+![Nmap](https://img.shields.io/badge/Nmap-214478?style=for-the-badge&logo=linux&logoColor=white)
+![Dirb](https://img.shields.io/badge/Dirb-000000?style=for-the-badge&logo=linux&logoColor=white)
+![Gobuster](https://img.shields.io/badge/Gobuster-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+
+### 📡 Network Analysis
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Tcpdump](https://img.shields.io/badge/Tcpdump-000000?style=for-the-badge&logo=linux&logoColor=white)
+
+### 🧠 Exploitation & Attacks
+
 ---
 ## Github Status
 ### Profile Details
