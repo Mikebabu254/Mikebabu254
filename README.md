@@ -48,16 +48,50 @@ I enjoy building both web and mobile applications with a focus on clean, efficie
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ## 🛡️ Cybersecurity Toolkit
+
 ### 🔍 Reconnaissance & Scanning
 ![Nmap](https://img.shields.io/badge/Nmap-214478?style=for-the-badge&logo=linux&logoColor=white)
 ![Dirb](https://img.shields.io/badge/Dirb-000000?style=for-the-badge&logo=linux&logoColor=white)
 ![Gobuster](https://img.shields.io/badge/Gobuster-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Amass](https://img.shields.io/badge/Amass-512D6D?style=for-the-badge&logo=linux&logoColor=white)
+![Shodan](https://img.shields.io/badge/Shodan-DD2A2A?style=for-the-badge&logo=redhat&logoColor=white)
 
 ### 📡 Network Analysis
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Tcpdump](https://img.shields.io/badge/Tcpdump-000000?style=for-the-badge&logo=linux&logoColor=white)
+![Netcat](https://img.shields.io/badge/Netcat-444444?style=for-the-badge&logo=linux&logoColor=white)
+![Bettercap](https://img.shields.io/badge/Bettercap-F44E3B?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ### 🧠 Exploitation & Attacks
+![Metasploit](https://img.shields.io/badge/Metasploit-1C3552?style=for-the-badge&logo=rubyonrails&logoColor=white)
+![SQLmap](https://img.shields.io/badge/SQLmap-BD1E2E?style=for-the-badge&logo=mysql&logoColor=white)
+![Hydra](https://img.shields.io/badge/Hydra-0A0A0A?style=for-the-badge&logo=python&logoColor=white)
+![Nikto](https://img.shields.io/badge/Nikto-000000?style=for-the-badge&logo=linux&logoColor=white)
+![BeEF](https://img.shields.io/badge/BeEF-FF4757?style=for-the-badge&logo=firefox-browser&logoColor=white)
+
+### 🛠️ Post Exploitation & Privilege Escalation
+![LinPEAS](https://img.shields.io/badge/LinPEAS-4CAF50?style=for-the-badge&logo=linux&logoColor=white)
+![WinPEAS](https://img.shields.io/badge/WinPEAS-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![BloodHound](https://img.shields.io/badge/BloodHound-8B0000?style=for-the-badge&logo=graphql&logoColor=white)
+![Mimikatz](https://img.shields.io/badge/Mimikatz-F7DF1E?style=for-the-badge&logo=windows&logoColor=black)
+
+### 📦 Forensics & Analysis
+![Autopsy](https://img.shields.io/badge/Autopsy-6A0DAD?style=for-the-badge&logo=windows&logoColor=white)
+![Volatility](https://img.shields.io/badge/Volatility-333399?style=for-the-badge&logo=python&logoColor=white)
+![Binwalk](https://img.shields.io/badge/Binwalk-000000?style=for-the-badge&logo=linux&logoColor=white)
+![ExifTool](https://img.shields.io/badge/ExifTool-FF6347?style=for-the-badge&logo=linux&logoColor=white)
+
+### ☁️ Cloud & Web Security
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FE7C3F?style=for-the-badge&logo=burpsuite&logoColor=white)
+![OWASP ZAP](https://img.shields.io/badge/OWASP%20ZAP-0A0A0A?style=for-the-badge&logo=owasp&logoColor=white)
+![AWS Inspector](https://img.shields.io/badge/AWS%20Inspector-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Cloudsploit](https://img.shields.io/badge/Cloudsploit-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+### 🔐 Password Cracking
+![John the Ripper](https://img.shields.io/badge/John%20the%20Ripper-222222?style=for-the-badge&logo=linux&logoColor=white)
+![Hashcat](https://img.shields.io/badge/Hashcat-7F7F7F?style=for-the-badge&logo=nvidia&logoColor=white)
+![RockYou](https://img.shields.io/badge/RockYou.txt-B22222?style=for-the-badge&logo=txt&logoColor=white)
+
 
 ---
 ## Github Status
