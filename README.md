@@ -113,7 +113,7 @@ I enjoy building both web and mobile applications with a focus on clean, efficie
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=800&lines=Life+is+what+happen+to+us+while+we+are+making+other+plans)
 
 ## ✨ Personal Philosophy
-> "Build software that solves real problems and simplifies life."
+> "Positive is the key, don't a captivity of your negative thoughts"
 
 ---
 
