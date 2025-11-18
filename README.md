@@ -4,7 +4,6 @@ From penetration testing and threat hunting to ethical hacking and secure coding
 I enjoy diving deep into the world of cyber defense and offense.
 I enjoy building both web and mobile applications with a focus on clean, efficient code and responsive design.
 
-- 🌱 Currently learning and growing through real-world projects at [**NEMA**](https://nema.go.ke/).
 - 💼 Interested in **Web development**, **Mobile App**, **Web penetration testing**, **Networking infrastructure**, **Cryptography** and **Backend Development**.
 - 📫 Reach me via email: **michaelndolo17142@gmail.com**
 - 🧠 Check out my work and experience: [**INKOGNITO PORTFOLIO**](https://mike-portfolio-five.vercel.app/)
