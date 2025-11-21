@@ -7,6 +7,7 @@ I enjoy building both web and mobile applications with a focus on clean, efficie
 - 💼 Interested in **Web development**, **Mobile App**, **Web penetration testing**, **Networking infrastructure**, **Cryptography** and **Backend Development**.
 - 📫 Reach me via email: **michaelndolo17142@gmail.com**
 - 🧠 Check out my work and experience: [**INKOGNITO PORTFOLIO**](https://mike-portfolio-five.vercel.app/)
+- Right now my focus is into AI, building my own sound assisting AI using tools that are available to the market. Like **Jarvis** one which **Ironman** uses.
 
 ---
 
