@@ -12,9 +12,7 @@ I enjoy building both web and mobile applications with a focus on clean, efficie
 ---
 
 ## 📚 Currently Exploring
-- RESTful APIs
-- Progressive Web Apps (PWA)
-- Cryptography
+- Artificial Intelligence(AI)
 
 ---
 
