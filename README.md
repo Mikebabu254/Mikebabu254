@@ -1,5 +1,5 @@
 # 👨‍💻 About Me
-Hi there! I'm **Eshiwani Michael**, a passionate software developer and a cybersecurity enthusiast dedicated to making the digital world a safer place.
+Hi there! I'm **Eshiwani Michael Ndolo**, a passionate software developer and a cybersecurity enthusiast dedicated to making the digital world a safer place.
 From penetration testing and threat hunting to ethical hacking and secure coding practices.
 I enjoy diving deep into the world of cyber defense and offense.
 I enjoy building both web and mobile applications with a focus on clean, efficient code and responsive design.
