@@ -8,7 +8,7 @@ I enjoy building both web and mobile applications with a focus on clean, efficie
 - 📫 Reach me via email: **michaelndolo17142@gmail.com**
 - 🧠 Check out my work and experience: [**INKOGNITO PORTFOLIO**](https://mike-portfolio-five.vercel.app/)
 - Lemmi first focus on an escroy app
-- I am also focusing into an AI agent, building my own sound assisting AI using tools that are available to the market. Like **Jarvis** one which **Ironman** uses.
+-Trying to focusing into an AI agent, building my own sound assisting AI using tools that are available to the market. Like **Jarvis** one which **Ironman** uses.
 
 ---
 
