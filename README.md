@@ -89,8 +89,7 @@ I enjoy building both web and mobile applications with a focus on clean, efficie
 <div align="center">
   
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mikebabu254&theme=github_dark" alt="Commits per Year"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=Mikebabu254&count_private=true&show_icons=true&theme=github_dark&hide_border=true" alt="Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mikebabu254&theme=github-dark&hide_border=true" alt="GitHub Streak"/>
+  
   
 </div>
 
