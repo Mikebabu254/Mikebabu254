@@ -8,7 +8,6 @@ I enjoy building both web and mobile applications with a focus on clean, efficie
 - 📫 Reach me via email: **michaelndolo17142@gmail.com**
 - 🧠 Check out my work and experience: [**INKOGNITO PORTFOLIO**](https://mike-portfolio-five.vercel.app/)
 - Staffs to do with encryption, base64 e.t.c. [**Cyper stash**](https://mikebabu254.github.io/Cipher-Stash/)
-- Lemmi first focus on an escroy app
 -Trying to focusing into an AI agent, building my own sound assisting AI using tools that are available to the market. Like **Jarvis** one which **Ironman** uses.
 
 ---
